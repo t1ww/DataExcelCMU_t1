@@ -1,3 +1,5 @@
+// @author Narongchai Rongthong 652115013
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
